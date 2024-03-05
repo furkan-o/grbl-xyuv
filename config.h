@@ -63,8 +63,8 @@
 
 // Default pin mappings. Grbl officially supports the Arduino Uno only. Other processor types
 // may exist from user-supplied templates or directly user-defined in pin_map.h
-#define PIN_MAP_ARDUINO_UNO
-//#define PIN_MAP_ARDUINO_MEGA_2560   ///mapping 0.845 + T axis
+//#define PIN_MAP_ARDUINO_UNO
+#define PIN_MAP_ARDUINO_MEGA_2560   ///mapping 0.845 + T axis
 //#define PIN_MAP_ARDUINO_MEGA_2560_4   /// mapping 0.8c + T axis
 
 // Define runtime command special characters. These characters are 'picked-off' directly from the
